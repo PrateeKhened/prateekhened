@@ -6,8 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I like working with Golang and Python
-
-- <p align="left">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/43211b8e-228e-431d-84b0-77c1327b51a5/thumbnail" >
 </p>
 <!--
