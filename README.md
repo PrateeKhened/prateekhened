@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - How to reach me:
     - [Email](mailto:code.prateekkhened@gmail.com)
     - [Linkedin](https://www.linkedin.com/in/prateekkhened)
-    - [Leetcode](https://leetcode.com/u/PrateekKhened/)
+- [Leetcode](https://leetcode.com/u/PrateekKhened/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
